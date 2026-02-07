@@ -2,9 +2,9 @@
 
 ## Par KISC
 
-**Kultūras informācijas sistēmu centrs (KISC)** ir valsts iestāde, kas darbojas **Kultūras ministrijas** pakļautībā ar mērķi nodrošināt **informācijas un komunikācijas tehnoloģiju (IKT) pārvaldību, drošību un pieejamību kultūras sektorā**. :contentReference[oaicite:1]{index=1}
+**Kultūras informācijas sistēmu centrs (KISC)** ir valsts iestāde, kas darbojas **Kultūras ministrijas** pakļautībā ar mērķi nodrošināt **informācijas un komunikācijas tehnoloģiju (IKT) pārvaldību, drošību un pieejamību kultūras sektorā**. 
 
-KISC atbalsta kultūras mantojuma saglabāšanu, nodrošinot digitālās infrastruktūras un risinājumu attīstību bibliotēkām, arhīviem, muzejiem un citām institūcijām, kā arī īsteno tehnoloģiju projektus, lai veicinātu informācijas pieejamību sabiedrībai. :contentReference[oaicite:2]{index=2}
+KISC atbalsta kultūras mantojuma saglabāšanu, nodrošinot digitālās infrastruktūras un risinājumu attīstību bibliotēkām, arhīviem, muzejiem un citām institūcijām, kā arī īsteno tehnoloģiju projektus, lai veicinātu informācijas pieejamību sabiedrībai. 
 
 ---
 
